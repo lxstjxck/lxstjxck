@@ -68,6 +68,5 @@ I use ChatGPT and Codex for:
 I define the required behavior, test implementations and iterate on the result.
 
 ## 📫 Contact
-
-- GitHub: [lxstjxck](https://github.com/lxstjxck)
+- Telegram: [lxstjack](https://t.me/lxstjack)
 - Email: danil.svet_2005@mail.ru
