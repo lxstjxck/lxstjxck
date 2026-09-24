@@ -1,4 +1,4 @@
-# Hi, I'm Danil 👋
+# Hi, I'm Danil 
 
 Junior Software Developer focused on building practical desktop, web and game projects.
 
@@ -6,7 +6,7 @@ I actively use AI-assisted development tools such as ChatGPT and Codex to speed 
 
 I enjoy turning ideas into working products: from requirements and UI concepts to testing, debugging and releases.
 
-## 🛠 Tech
+## Tech
 
 - C# / .NET / WPF
 - TypeScript / JavaScript
@@ -17,7 +17,7 @@ I enjoy turning ideas into working products: from requirements and UI concepts t
 - WebSocket / Socket.IO
 - Vite / Vitest
 
-## 🚀 Projects
+## Projects
 
 ### DesktopPlanner
 Windows desktop planner with widgets for tasks, calendar, notes and weekly scheduling.
@@ -53,7 +53,7 @@ Web platform for publishing digital artwork, developed as a graduation project.
 [View repository](https://github.com/lxstjxck/artside)
 
 
-## 🤖 AI-assisted development
+## AI-assisted development
 
 AI tools are part of my development workflow.
 
