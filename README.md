@@ -23,7 +23,7 @@ Windows desktop planner with widgets for tasks, calendar, notes and weekly sched
 [View repository](https://github.com/lxstjxck/DesktopPlanner)
 
 ### ModOverlayObs
-Self-hosted moderation overlay for OBS that allows moderators to display media on stream without direct access to OBS.
+Moderation overlay for OBS that allows moderators to display media on stream without direct access to OBS.
 
 **Stack:** TypeScript, React, Node.js, Express, Socket.IO, Prisma
 
@@ -44,4 +44,4 @@ Web platform for publishing digital artwork, developed as a graduation project.
 
 ## 📫 Contact
 - Telegram: [lxstjack](https://t.me/lxstjack)
-- Email: danil.svet_2005@mail.ru
+- Email: lxstjack@gmail.com
